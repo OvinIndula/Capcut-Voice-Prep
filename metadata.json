@@ -1,0 +1,6 @@
+{
+  "name": "Audio Splitter",
+  "description": "Split audio into custom minute intervals with compact MP3 output under 50MB per file, waveform preview, and batch ZIP download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
